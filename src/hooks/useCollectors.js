@@ -1,6 +1,6 @@
 
-const useUsers = () => {
+const useCollectors = () => {
  
 };
 
-export default useUsers;
+export default useCollectors;
