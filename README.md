@@ -1,4 +1,4 @@
-# `Gamification-dApp`
+# `Gamification-StarterCode`
 
 > A clone of CoinMarketCap Diamonds gamification model, built using Moralis and the Ethereum-Boilerplate
 
@@ -11,13 +11,13 @@ This boilerplate is built on [react-moralis](https://github.com/MoralisWeb3/reac
 
 # 🚀 Quick Start
 
-📄 Clone or fork `Gamification-dApp`:
+📄 Clone or fork `Gamification-StarterCode`:
 ```sh
-git clone https://github.com/IAmJaysWay/Gamification-dApp.git
+git clone https://github.com/IAmJaysWay/Gamification-StarterCode.git
 ```
 💿 Install all dependencies:
 ```sh
-cd Gamification-dApp
+cd Gamification-StarterCode
 yarn install 
 ```
 ✏ Rename `.env.example` to `.env` in the main folder and provide your `appId` and `serverUrl` from Moralis ([How to start Moralis Server](https://docs.moralis.io/moralis-server/getting-started/create-a-moralis-server)) 
